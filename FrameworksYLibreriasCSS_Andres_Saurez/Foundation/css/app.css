@@ -1,0 +1,50 @@
+.background-image {
+    background-image: url("../img/background.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.articles {
+
+background: rgba(118, 54, 38, .5)
+
+}
+
+.sideMenu {
+
+background: rgba(129, 19, 199, 222);
+
+}
+
+.leftSide {
+  background-color: #336b87;
+  padding: 10px;
+  color: #c98e70;
+}
+
+.rightSide {
+  background-color: #2A3132;
+  padding: 10px;
+  color: white;
+}
+
+img {
+  margin-bottom: 5px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #98b272
+}
+
+.title {
+  color: white;
+  font-style: italic;
+}

@@ -1,0 +1,31 @@
+body {
+    background-image: url("../img/background.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.contentBlock {
+  padding: 10px;
+  opacity: 0.9;
+}
+
+.title {
+  font-family: 'Indie Flower', cursive;
+}
+
+.marg {
+  margin: 7px;
+}
+
+.input-field label {
+  color: #000;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #92C2F0;
+  box-shadow: 0 1px 0 0 #000;
+}
